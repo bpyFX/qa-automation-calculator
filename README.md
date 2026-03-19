@@ -1,6 +1,6 @@
 # 🧪 QA Automation Calculator
 
-![CI](https://github.com/YOUR_USERNAME/qa-automation-calculator/actions/workflows/python-app.yml/badge.svg)
+![CI](https://github.com/bpyFX/qa-automation-calculator/actions/workflows/python-app.yml/badge.svg)
 
 A simple Python calculator tested with `pytest` and integrated with GitHub Actions CI/CD. This project demonstrates core QA automation skills including test case writing, edge case handling, and continuous integration.
 
